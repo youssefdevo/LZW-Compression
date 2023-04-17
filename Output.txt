@@ -1,0 +1,4 @@
+Tags: 65 66 65 128 128 129 131 134 130 129 66 138 139 138 
+
+The Original size = 224 bits
+The Compressed size = 112 bits
